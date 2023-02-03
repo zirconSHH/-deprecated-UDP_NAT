@@ -1,0 +1,6 @@
+﻿  UDPPass_server.cpp
+A:\code\c++\UDP_NAT\UDPPass_server\UDPMod.h(33): warning C4172: 返回局部变量或临时变量的地址: newaddr
+A:\code\c++\UDP_NAT\UDPPass_server\UDPMod.h(24): warning C4172: 返回局部变量或临时变量的地址: newsocket
+A:\code\c++\UDP_NAT\UDPPass_server\UDPMod.h(14): warning C4172: 返回局部变量或临时变量的地址: wsadata
+A:\code\c++\UDP_NAT\UDPPass_server\UDPMod.h(41): warning C4172: 返回局部变量或临时变量的地址: newaddr
+  UDPPass_server.vcxproj -> A:\code\c++\UDP_NAT\UDPPass_server\x64\Debug\UDPPass_server.exe

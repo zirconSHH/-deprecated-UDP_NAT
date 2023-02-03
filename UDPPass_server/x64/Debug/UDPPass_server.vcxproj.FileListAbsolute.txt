@@ -1,0 +1,2 @@
+A:\code\c++\UDPPass_server\x64\Debug\UDPPass_server.exe
+A:\code\c++\UDP_NAT\UDPPass_server\x64\Debug\UDPPass_server.exe
